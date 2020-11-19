@@ -1,0 +1,2 @@
+numpy==1.19.4
+threadpoolctl==2.1.0
